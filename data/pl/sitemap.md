@@ -1,1 +1,1 @@
-{"_header":[],"_footer":[],"_navs":{"pageMenu":[]}}
+{"_header":[],"_footer":[],"_navs":{"pageMenu":[{"linkText":"Europa League Betting Guide","href":"en\/blog\/previews\/567-europa-league-betting-guide_1","className":null,"key":null,"blank":"0","subMenu":[]}]}}
