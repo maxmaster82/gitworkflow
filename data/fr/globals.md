@@ -1,1 +1,1 @@
-{"_header":[],"_footer":[]}
+{"customCss":".ho {color:red;}","mobileCustomCss":"","_header":[],"_footer":[]}
