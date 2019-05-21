@@ -1,0 +1,1 @@
+{"pageId":"227","pageTitle":"test","layout":"blogPostPage","section":"blog","enabled":1,"content":"","templateVariables":{"category":{"title":"yo","slug":"yo"},"summary":"","boilerplateText":"","articleOfInterest":false,"readingTime":"","customCss":"","mobileCustomCss":"","translationPriority":"low","translationComplete":true}}
